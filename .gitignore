@@ -1,0 +1,9 @@
+# Médias lourds : jamais versionnés dans Git
+rushs/*
+!rushs/.gitkeep
+projet/*
+!projet/.gitkeep
+exports/*
+!exports/.gitkeep
+rapports/planches/
+__pycache__/
